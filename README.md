@@ -5,7 +5,7 @@ This is a simple test to get started with the Intel Edison Mini Breakout Board.
 Clone this repo (or just the main.js) into your Intel Edison.
 
 # To Run
-Just go to the folder where the is located and execute `node main.js`
+Just go to the folder where the file is located and execute `node main.js`.
 
 
 # Conections on the Intel Edison Mini Breakout Board and the protoboard

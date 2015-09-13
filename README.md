@@ -15,13 +15,17 @@ Just go to the folder where the file is located and execute `node main.js`.
 
 # Conections on the Intel Edison Mini Breakout Board and the protoboard
 
-The push button is configured as an active high, so if you press it you should see a `Gpio is 1` message, and whe release it the message changes to `Gpio is 0`.
+If you press the button you should see a `The LED is in state 1` message, and when release it the message changes to `The LED is in state 0`, and the LED will turn on whenever you press the button.
 
 **Protoboard**
-![alt tag](/img1.jpg)
+![alt tag](/Push button test_bb.png)
 
-**Intel Edison Mini Breakout Board**
-![alt tag](/img3.jpg)
+**Schematic**
+![alt tag](/Push button test_esquema.png)
 
 **Full set up**
-![alt tag](/img2.jpg)
+![alt tag](/img3.jpg)
+*Note that i'm not using a push button. This is because i didn't have a push button near during this test. (the green cable replaced my push button)*
+
+
+**Please check out the other images that are in this repo.**

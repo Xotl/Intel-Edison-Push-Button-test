@@ -24,7 +24,7 @@ If you press the button you should see a `The LED is in state 1` message, and wh
 ![alt tag](/Push button test_esquema.png)
 
 **Full set up**
-![alt tag](/img3.jpg)
+![alt tag](/image3.jpg)
 *Note that i'm not using a push button. This is because i didn't have a push button near during this test. (the green cable replaced my push button)*
 
 
